@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211575409447",
+    "project_id": "smarthomeapplication-552e2",
+    "storage_bucket": "smarthomeapplication-552e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211575409447:android:eab4de408e65849f9c7702",
+        "android_client_info": {
+          "package_name": "com.example.smart_home_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-gPXrPJte6fmzZ4VNp4dDg2WxLKZBnBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
